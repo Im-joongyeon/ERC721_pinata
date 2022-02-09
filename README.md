@@ -19,5 +19,6 @@
 6. 트러플 콘솔창에서 nft = await MyNFTs.deployed() 
 
 7. nft.mint("http://gateway.pinata.cloud/ipfs/ipfsHash")
+   3번에서 나온 ipfsHash를 붙여넣어준다.
 
 오픈씨 testnet접속 후 메타마스크 로그인.
