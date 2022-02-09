@@ -1,0 +1,5 @@
+PINATA_API_KEY = ""
+PINATA_API_SECRET = ""
+PINATA_API_JWT = ""
+private_KEY = ""
+ETH_CLIENT_URL = "https://rinkeby.infura.io/v3/본인infuraAPI키"

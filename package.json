@@ -1,0 +1,21 @@
+{
+  "name": "TrufflewithERC721",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0"
+  }
+}
