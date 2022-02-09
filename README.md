@@ -17,7 +17,6 @@
 5. 트러플 콘솔창에서 migrate
 
 6. 트러플 콘솔창에서 nft = await MyNFTs.deployed() 
-                 
                  nft.mint("http://gateway.pinata.cloud/ipfs/ipfsHash")
 
 오픈씨 testnet접속 후 메타마스크 로그인.
